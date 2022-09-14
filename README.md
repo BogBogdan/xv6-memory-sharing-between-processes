@@ -19,3 +19,5 @@ end - tells the primecalc process to shut down
   
 primecalc-
 The user program primecalc is tasked with searching for prime numbers.
+
+ Dev: Bogdan Tomic
